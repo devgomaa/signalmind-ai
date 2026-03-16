@@ -1,0 +1,18 @@
+{
+  "flat_prompt": "Scene visuals: Animated graphic showing 'Existing Site' -> 'Shuffle AI Brain' (with subtle brand color #3B82F6) -> 'New Optimized Design'. A person looking impressed at a screen with the new design.. Voiceover: Female voice, confident tone, speaking in Egyptian Arabic: \"Shuffle's AI analyzes your existing site, understands your brand, and crafts optimized, modern layouts tailored for today's audience.\". Brand color None used in video.  Pacing: medium. Transitions: cut. Vertical 9:16 format, professional social-media production quality.",
+  "scene_visuals": {
+    "duration_seconds": 7,
+    "description": "Animated graphic showing 'Existing Site' -> 'Shuffle AI Brain' (with subtle brand color #3B82F6) -> 'New Optimized Design'. A person looking impressed at a screen with the new design."
+  },
+  "voiceover": {
+    "gender": "Female",
+    "tone": "confident",
+    "language": "Egyptian Arabic",
+    "text": "Shuffle's AI analyzes your existing site, understands your brand, and crafts optimized, modern layouts tailored for today's audience."
+  },
+  "style": {
+    "pacing": "medium",
+    "transitions": "cut",
+    "format": "Vertical 9:16, professional social-media quality."
+  }
+}

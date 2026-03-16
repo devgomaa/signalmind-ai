@@ -1,0 +1,18 @@
+{
+  "flat_prompt": "Scene visuals: Dynamic text animation: 'Save Time. Boost Engagement. Stay Ahead.' A cursor quickly navigating a beautifully redesigned website. Final shot of a clean, branded website.. Voiceover: Female voice, confident tone, speaking in Egyptian Arabic: \"Experience instant transformations. Get cutting-edge design, without the endless revisions or complex coding.\". Brand color None used in video.  Pacing: medium. Transitions: cut. Vertical 9:16 format, professional social-media production quality.",
+  "scene_visuals": {
+    "duration_seconds": 6,
+    "description": "Dynamic text animation: 'Save Time. Boost Engagement. Stay Ahead.' A cursor quickly navigating a beautifully redesigned website. Final shot of a clean, branded website."
+  },
+  "voiceover": {
+    "gender": "Female",
+    "tone": "confident",
+    "language": "Egyptian Arabic",
+    "text": "Experience instant transformations. Get cutting-edge design, without the endless revisions or complex coding."
+  },
+  "style": {
+    "pacing": "medium",
+    "transitions": "cut",
+    "format": "Vertical 9:16, professional social-media quality."
+  }
+}

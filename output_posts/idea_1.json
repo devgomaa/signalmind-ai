@@ -1,0 +1,20 @@
+{
+  "idea_index": 1,
+  "hook": "Is AI writing your code... and breaking your MathJax in popups? 🤯",
+  "post_copy": "You're leveraging AI to build dynamic web experiences, but suddenly your crucial MathJax equations aren't rendering within popups! 📉 This isn't just a minor bug; it's a critical UX failure that can undermine your content's authority and frustrate your audience.\n\nAs 90% of code shifts to AI generation, who takes responsibility when these intricate rendering issues arise? Ensuring technical content integrity across all interactive elements – especially those involving complex MathJax – is paramount. Don't let a hidden glitch turn your cutting-edge content into a broken mess. \n\nAre you building robust testing into your AI-driven development process? Let's talk about safeguarding content quality in the AI era!",
+  "hashtags": [
+    "AIResponsibility",
+    "MathJaxIssue",
+    "UXDesign",
+    "CodeGeneration",
+    "ContentIntegrity",
+    "WebDev",
+    "MarketingTech",
+    "AIinMarketing",
+    "DigitalTransformation",
+    "PopupFix"
+  ],
+  "visual_direction": "",
+  "image_description": "A stylized illustration. A web browser popup window is open, displaying a broken MathJax equation (e.g., showing raw LaTeX code `$\\sum_{i=0}^n i^2 = \\frac{n(n+1)(2n+1)}{6}$` instead of the rendered formula). In the background, abstract AI neural network patterns glow with the brand color #3B82F6. A 'bug' icon or a broken gear symbol is subtly integrated into the popup, highlighting the issue.",
+  "image_path": null
+}

@@ -1,0 +1,22 @@
+{
+  "flat_prompt": "OPENING HOOK (3s): bold on-screen text reads \"Stop wasting time on outdated website redesigns!\" — eye-catching, high contrast, centered on screen. Scene visuals: Fast-paced montage: old, cluttered website UI transforming into a sleek, modern, mobile-responsive design. Text overlay: 'Before' and 'After' with a dynamic transition.. Voiceover: Female voice, confident tone, speaking in Egyptian Arabic: \"Imagine your website, but faster, smarter, and stunningly redesigned in minutes with AI.\". Brand color None used in video.  Pacing: medium. Transitions: cut. Vertical 9:16 format, professional social-media production quality.",
+  "scene_visuals": {
+    "duration_seconds": 5,
+    "description": "Fast-paced montage: old, cluttered website UI transforming into a sleek, modern, mobile-responsive design. Text overlay: 'Before' and 'After' with a dynamic transition."
+  },
+  "voiceover": {
+    "gender": "Female",
+    "tone": "confident",
+    "language": "Egyptian Arabic",
+    "text": "Imagine your website, but faster, smarter, and stunningly redesigned in minutes with AI."
+  },
+  "hook": {
+    "text": "Stop wasting time on outdated website redesigns!",
+    "duration_seconds": 3
+  },
+  "style": {
+    "pacing": "medium",
+    "transitions": "cut",
+    "format": "Vertical 9:16, professional social-media quality."
+  }
+}

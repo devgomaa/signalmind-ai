@@ -1,0 +1,18 @@
+{
+  "flat_prompt": "Scene visuals: Clear Call to Action: 'Ready to revolutionize your online presence? Visit Shuffle.com/AI-Redesign' with a prominent swipe-up arrow or URL.. Voiceover: Female voice, confident tone, speaking in Egyptian Arabic: \"Discover the future of web design. Try Shuffle AI Website Redesign today!\". Brand color None used in video.  Pacing: medium. Transitions: cut. Vertical 9:16 format, professional social-media production quality.",
+  "scene_visuals": {
+    "duration_seconds": 4,
+    "description": "Clear Call to Action: 'Ready to revolutionize your online presence? Visit Shuffle.com/AI-Redesign' with a prominent swipe-up arrow or URL."
+  },
+  "voiceover": {
+    "gender": "Female",
+    "tone": "confident",
+    "language": "Egyptian Arabic",
+    "text": "Discover the future of web design. Try Shuffle AI Website Redesign today!"
+  },
+  "style": {
+    "pacing": "medium",
+    "transitions": "cut",
+    "format": "Vertical 9:16, professional social-media quality."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "idea_index": 1,
+  "caption": "",
+  "hashtags": [
+    "#AIWebsiteRedesign",
+    "#ShuffleAI",
+    "#WebDesign",
+    "#MarketingStrategy",
+    "#AIDesign",
+    "#DigitalTransformation",
+    "#WebsiteUpgrade",
+    "#ContentMarketing",
+    "#TechTrends"
+  ],
+  "hook": {
+    "text": "Stop wasting time on outdated website redesigns!",
+    "duration_seconds": 3
+  },
+  "cta": {},
+  "voiceover_properties": {},
+  "script": [
+    {
+      "scene": 1,
+      "visuals": "Fast-paced montage: old, cluttered website UI transforming into a sleek, modern, mobile-responsive design. Text overlay: 'Before' and 'After' with a dynamic transition.",
+      "voiceover": "Imagine your website, but faster, smarter, and stunningly redesigned in minutes with AI.",
+      "duration_seconds": 5
+    },
+    {
+      "scene": 2,
+      "visuals": "Animated graphic showing 'Existing Site' -> 'Shuffle AI Brain' (with subtle brand color #3B82F6) -> 'New Optimized Design'. A person looking impressed at a screen with the new design.",
+      "voiceover": "Shuffle's AI analyzes your existing site, understands your brand, and crafts optimized, modern layouts tailored for today's audience.",
+      "duration_seconds": 7
+    },
+    {
+      "scene": 3,
+      "visuals": "Dynamic text animation: 'Save Time. Boost Engagement. Stay Ahead.' A cursor quickly navigating a beautifully redesigned website. Final shot of a clean, branded website.",
+      "voiceover": "Experience instant transformations. Get cutting-edge design, without the endless revisions or complex coding.",
+      "duration_seconds": 6
+    },
+    {
+      "scene": 4,
+      "visuals": "Clear Call to Action: 'Ready to revolutionize your online presence? Visit Shuffle.com/AI-Redesign' with a prominent swipe-up arrow or URL.",
+      "voiceover": "Discover the future of web design. Try Shuffle AI Website Redesign today!",
+      "duration_seconds": 4
+    }
+  ],
+  "estimated_duration_seconds": 0,
+  "generated_scenes": []
+}
